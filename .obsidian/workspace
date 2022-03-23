@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b57de447307899ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "2497c4ec7e621cc0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Organizational folder/Matérias/Cálculo/Calculo  2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23926c29e31eb5df",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf2a76988966752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0558a07c7170636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c650d250e8fb7e31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6430bc98ad9eeb5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c7d921cc96e44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12904e26d40bff67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Organizational folder/Matérias/Cálculo/Calculo  2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2497c4ec7e621cc0",
+  "lastOpenFiles": [
+    "Organizational folder/Matérias/Cálculo/Calculo  2.md",
+    "Organizational folder/Matérias/Logica Matematica/Argumentos/Introdução  a Argumentos lógicos.md",
+    "Organizational folder/Matérias/Física 1/Grandezas e Medidas/Grandezas Fundamentais.md",
+    "Organizational folder/Matérias/Algebra Linear/Algebra Linear - Bibliografia.md",
+    "Organizational folder/Matérias/Algebra Linear/Determinantes.md",
+    "Como usar este documento.md",
+    "Organizational folder/Matérias/Algebra Linear/Traço de uma matriz.md",
+    "Organizational folder/Matérias/Algebra Linear/Matriz Inversa.md",
+    "Organizational folder/Matérias/Física 1/Grandezas Vetoriais.md",
+    "Organizational folder/Matérias/Logica Matematica/Argumentos/Proposição.md"
+  ]
+}

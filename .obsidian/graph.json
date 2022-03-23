@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "programação_1",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Lógica_matematica",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Kanban",
+      "color": {
+        "a": 1,
+        "rgb": 3250993
+      }
+    },
+    {
+      "query": "Fisica_1",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "calculo",
+      "color": {
+        "a": 1,
+        "rgb": 8843871
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 2.15427553444181,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.45249406175772,
+  "repelStrength": 10.2905982905983,
+  "linkStrength": 1,
+  "linkDistance": 153,
+  "scale": 0.25883470674463377,
+  "close": false
+}
