@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## ```ad-todo
 
-- [ ] Escrever Árvore binaria e Tabela Verdade
-- [ ] Escrever as formulas em [[Aceleração Constante]]
-- [ ] Escrever as formulas de [[Queda Livre]]
 - [ ] Slides Física
+- [ ] Escrever as formulas de [[Queda Livre]]
 - [ ] Slides Annabel
-- [ ] Exercícios Annabel
+- [ ] Organizar slides Calculo 2
+- [ ] Fazer slides de algebra
+- [ ] Escrever Novos slides Tang
 - [ ] Baixar R
 
 
@@ -23,6 +23,8 @@ kanban-plugin: basic
 - [x] Slide 3 Tang
 - [x] Slide 4 Tang
 - [x] Calculo 2 Passar Caderno Dia 1
+- [x] Escrever as formulas em Aceleração Constante
+- [x] Exercícios Annabel
 
 
 

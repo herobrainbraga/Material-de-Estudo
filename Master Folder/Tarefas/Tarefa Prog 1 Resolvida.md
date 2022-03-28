@@ -1,9 +1,12 @@
+# Algoritmos
 Faça um algoritmo para somar dois números e multiplicar
 o resultado pelo primeiro número.
 
 ```cs
-int = A = 3
-int = B = 4
+int = A 
+int = B 
+A = 3
+B = 4
 int = C = A*B
 int = D = C*A
 ```
@@ -145,8 +148,9 @@ Os dados de saída são
 - O código da peça
 - E o valor total da peça
 
-```
 Construa um diagrama de blocos que:
+
+```
 - Leia a cotação do dólar;
 - Leia um valor em dólares;
 - Converta esse valor para Real;
@@ -162,3 +166,6 @@ Desenvolva um diagrama que:
 - Somem todos os números;
 - Mostre o resultado;
 ```
+
+![[Números.png]]
+

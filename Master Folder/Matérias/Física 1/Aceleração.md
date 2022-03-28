@@ -1,9 +1,11 @@
-Aceleração média
+# Aceleração
+Aceleração é a variação da velocidade ao longo do tempo
+mas também é possível ter uma [[Aceleração Constante]]
 
 Se em $T_1$  -> $V_1$  e em $T_2$  -> $V_2$ 
 
 # $\vec{a}=\frac{\Delta v}{\Delta t} = \frac{v_2-v_1}{t_2-t_1}$
-Aceleração instantanea
+- Aceleração instantanea
 
 # $a= \lim \frac {\Delta v}{\Delta t} = \frac {dv}{dt}$
 

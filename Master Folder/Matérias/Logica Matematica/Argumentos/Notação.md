@@ -21,5 +21,18 @@ Temos que:
 
 Quando há a presença de parenteses deverá se realizar as tarefas seguindo a [[Precedencia dos Operadores]]
 
+## Infixa, Préfixa, Pósfixa
+
+Infixa fica no meio
+
+A + B
+
+Préfixa fica antes
+
++AB
+
+Pósfixa fica depois
+
+AB+
 
 #Lógica_matematica 

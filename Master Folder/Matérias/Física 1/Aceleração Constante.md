@@ -14,9 +14,12 @@ Estás fórmulas usam [[Integral]]
 
 Pode se tirar $a$ da integral pois $a$ é constante
 
-```ad-bug
-title:Unfinished
-Escrever as equações da variação da velocidade e do espaço
-```
+### Fórmulas da aceleração constante:
+
+### $V=V_0+at$
+## $X=X_0+V_0T+\frac{at^2}{2}$
+## $V^2=V_0^2+2a(X-X_0)$
+
+
 
 #fisica_1 

@@ -1,6 +1,6 @@
 # Grandezas Vetoriais
 
-Alem do valor da grandeza, com a grandeza vetorial você também tem que falar pra onde aponta o [[vetor]] (Direção e Sentido)
+Alem do valor da grandeza, com a grandeza vetorial você também tem que falar pra onde aponta o [[Vetores]] (Direção e Sentido)
 
 Grandezas que exigem (Modulo, direçao e sentido)
 

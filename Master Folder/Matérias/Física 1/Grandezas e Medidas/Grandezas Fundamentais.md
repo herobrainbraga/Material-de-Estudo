@@ -3,9 +3,9 @@ As grandezas fundamentais são as mais importantes de se saber para a maioria do
 
 | Grandeza                 | Nome da unidade | Unidade |
 | ------------------------ | --------------- | ------- |
-| [[Comprimento]]              | metro           | m       |
-| [[Tempo]]                    | segundo         | s       |
-| [[Massa]]                    | quilograma      | kg      |
+| Comprimento              | metro           | m       |
+| Tempo                    | segundo         | s       |
+| Massa                    | quilograma      | kg      |
 | Corrente  elétrica       | ampère          | A       |
 | Temperatura              | kelvin          | K       |
 | Quantidade de Substância | mol             | mol     |
@@ -13,14 +13,13 @@ As grandezas fundamentais são as mais importantes de se saber para a maioria do
 
 As Grandezas Fundamentais não são as únicas que existem, também existem outras grandezas que vem diretamente das Grandezas Fundamentais, Elas são chamadas de [[Unidades derivadas]]
 
-Temos Grandezas Escalares e [[Grandezas Vetoriais]]:
+Temos Grandezas Escalares e Grandezas Vetoriais:
 
 | Escalares | Vetoriais    |
 | --------- | ------------ |
 | Massa     | Deslocamento |
 | Tempo     | Velocidade   |
 | Pressão   | Força        |
-|           |              |
 
 
 #fisica_1 

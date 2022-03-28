@@ -11,7 +11,7 @@ No estudo do Movimento Retilíneo os importantes pontos a serem levados em consi
 A posição de uma partícula no movimento sempre será algum valor de X, visto que o movimento retilíneo ocorre em apenas uma dimensão
 
 - Exemplo de posição
-	X = 15 ; A partícula se encontra em X = 15, agora se são metros ou centímetros ou outra medida cabe ao problema mencionar
+	X = 15 ; A partícula se encontra em X = 15 no eixo das abscissas, agora se são metros ou centímetros ou outra medida deve se analisar o problema a ser resolvido
 
 #### Deslocamento
 
@@ -21,7 +21,10 @@ O deslocamento de uma partícula se da pela medida de X que a partícula se move
 
 $X_1=2\ X_2=4$ O deslocamento será 2 pois: $X_2-X_1=4-2=2$  
 
-- Nota: O deslocamento de uma partícula pode ser negativo isso apenas significa que ela está se deslocando no sentido oposto da convenção
+Isto pode ser escrito como
+# $\Delta x =x_2-x_1$
+
+- Nota: O deslocamento de uma partícula pode ser negativo isso apenas significa que ela está se deslocando no sentido oposto da convenção escolhida
 
 - Exemplo 2
 
@@ -39,11 +42,11 @@ $X4 = 1m$
 
 - Deslocamento de 1 pra 2
 $\Delta\ X_2-X_1$ --> $2 = 2m$: 2 sendo quanto a partícula se deslocou
-$\Delta\ X_2-X_3$ --> $4 = -4m$: 4 sendo quanto a partícula se deslocou e o $-$ indicando a direção
+$\Delta\ X_2-X_3$ --> $4 = -4m$: 4 sendo quanto a partícula se deslocou e o $-$ indicando o sentido
 
 ##### Sentido
 
-A partir de um ponto de referencia pode se inferir um sentido onde o sentido positivo seria o sentido do eixo e o sentido negativo seria contra o sentido do eixo
+A partir de um ponto de referencia pode se inferir um sentido, onde o sentido positivo seria o sentido do eixo e o sentido negativo seria contra o sentido do eixo
 
 
 ## Velocidade
@@ -57,18 +60,22 @@ Podemos inferir que a partícula está viajando com uma velocidade pelo espaço 
 
 - Exemplo:
 
-Assumindo passa um segundo entre cada posição, mostre a velocidade
+Assumindo que se passa um segundo entre cada posição, mostre a velocidade em $X_2$ e $X_3$
 
- $X_1=2\ X_2=4\ X_3=8$
+ $X_1=2\ \ \ X_2=4\ \ \ X_3=8$
+T1 ---> T2 ---> T3
 
- 
+Velocidade em T2 = 2m/s 
+Velocidade em T3 = 4m/s
+
+Quando temos a variação da velocidade chamamos isso de [[aceleração]]
 
 
-
+### Velocidade Média
 
 ![[Grafico1.excalidraw.png]]
 
-Você pode aproximar graficos para saber sua velocidade media usando a formula acima
+Você pode aproximar pontos em graficos para saber sua velocidade media usando a formula acima
 
 ![[Grafico2.excalidraw.png]]
 
@@ -77,9 +84,10 @@ Você pode aproximar graficos para saber sua velocidade media usando a formula a
 # $\vec{V}=\frac{DistanciaTotal}{\Delta t}$
 
 ## Velocidade Instantânea
-Mais para velocidade media entre dois pontos
+# $V = \lim_{\Delta \to 0} \frac{\Delta X}{\Delta T} = \frac{dx}{dt}$ 
+	
+A reta tangente do movimento no gráfico espaço em um certo ponto tempo te da a velocidade instantânea naquele certo ponto
 
 
-Velocidade escalar é o modulo da velocidade instantanea
 
 #fisica_1 

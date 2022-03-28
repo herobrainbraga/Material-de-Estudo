@@ -85,13 +85,13 @@ Apesar de todas as Proposições estarem certa este argumento é invalido pois s
 
 # O que a lógica não é
 
-| A lógica não pode                                 | A lógica não pode                                            |     |     |
-| ------------------------------------------------- | ------------------------------------------------------------ | --- | --- |
-| Criar um argumento valido                         | criticar um determinado argumento quanto à validade          |     |     |
-| mostrar o que é verdadeiro ou falso na realidade  | mostrar como trabalhar com proposiçoes verdadeiras ou falsas |     |     |
-| mostrar se um argumento é solido                  | mostrar se um argumento é valido                             |     |     |
-| justificar as conclusoes encontradas pela induçao | justificar as conclusoes encontradas pela dedução            |     |     |
-| construir argumentos retoricamente mais fortes    | fornecer as bases para um aperfeiçoamento retorico           |     |     |
+| A lógica não pode                                 | A lógica não pode                                            |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| Criar um argumento valido                         | criticar um determinado argumento quanto à validade          |
+| mostrar o que é verdadeiro ou falso na realidade  | mostrar como trabalhar com proposiçoes verdadeiras ou falsas |
+| mostrar se um argumento é solido                  | mostrar se um argumento é valido                             |
+| justificar as conclusoes encontradas pela induçao | justificar as conclusoes encontradas pela dedução            |
+| construir argumentos retoricamente mais fortes    | fornecer as bases para um aperfeiçoamento retorico           |
 
 
 A lógica Matemática pode ser escrita tanto em português quanto em [[Notação]] matemática 

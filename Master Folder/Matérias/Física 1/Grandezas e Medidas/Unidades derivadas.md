@@ -5,9 +5,9 @@ São grandezas derivadas das [[Grandezas Fundamentais]]
 | ----------------- | ----------------------- | ------- | -------- |
 | Área              | metro quadrado          | m^2     |          |
 | Volume            | metro cúbico            | m^3     |          |
-| Frequência        | hertz                   | Hz      | s^-1     |
+| Frequência        | hertz                   | hz      | s^-1     |
 | Velocidade        | metro por segundo       | m/s     |          |
-| [[Aceleração]]        | metro por seg. quadrado | m/s^2   |          |
+| Aceleração        | metro por seg. quadrado | m/s^2   |          |
 | Força             | newton                  | N       | kg.m/s^2 |
 | Pressão           | pascal                  | Pa      | N/m^2    |
 | Trabalho(Energia) | joule                   | J       | N.m      |
