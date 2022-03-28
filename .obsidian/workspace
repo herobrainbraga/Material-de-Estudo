@@ -7,11 +7,9 @@
         "id": "811b0fcff0dbdaa7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Master Folder/Matérias/Logica Matematica/Argumentos/Introdução  a Argumentos lógicos.md",
-            "mode": "source",
-            "source": false
+            "file": "Master Folder/A Fazer, Estudar.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Folder/Matérias/Logica Matematica/Argumentos/Introdução  a Argumentos lógicos.md",
+                "file": "Master Folder/A Fazer, Estudar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +86,8 @@
   },
   "active": "811b0fcff0dbdaa7",
   "lastOpenFiles": [
+    "Master Folder/A Fazer, Estudar.md",
+    "Teste.md",
     "Master Folder/Matérias/Logica Matematica/Argumentos/Introdução  a Argumentos lógicos.md",
     "Master Folder/Matérias/Logica Matematica/Argumentos/conclusão.md",
     "Alfabeto da Lógica Proposicional.md",
@@ -95,8 +95,6 @@
     "Master Folder/Matérias/Logica Matematica/Argumentos/Princípios da Lógica matemática.md",
     "vetor.md",
     "Master Folder/Matérias/Física 1/Grandezas Vetoriais.md",
-    "Master Folder/Matérias/Física 1/Aceleração Constante.md",
-    "Excalidraw/Drawing 2022-03-25 20.39.27.excalidraw.md",
-    "Master Folder/Matérias/Física 1/Grandezas e Medidas/Unidades derivadas.md"
+    "Master Folder/Matérias/Física 1/Aceleração Constante.md"
   ]
 }
