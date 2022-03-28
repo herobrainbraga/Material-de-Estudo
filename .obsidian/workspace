@@ -7,9 +7,11 @@
         "id": "811b0fcff0dbdaa7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Master Folder/A Fazer, Estudar.md"
+            "file": "Master Folder/Matérias/UENF/Logica Matematica/Tautologias.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Folder/A Fazer, Estudar.md",
+                "file": "Master Folder/Matérias/UENF/Logica Matematica/Tautologias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "811b0fcff0dbdaa7",
   "lastOpenFiles": [
+    "Master Folder/Matérias/UENF/Logica Matematica/Tautologias.md",
+    "Notação Pósfixa.md",
+    "Master Folder/Matérias/UENF/Logica Matematica/Argumentos/Notação.md",
+    "Master Folder/Matérias/UENF/Logica Matematica/Argumentos/Introdução  a Argumentos lógicos.md",
+    "Master Folder/Matérias/UENF/Programação 1/Algoritmos.md",
+    "Master Folder/Matérias/Lavinia/Pensi - 01 - 280322.pdf",
     "Master Folder/A Fazer, Estudar.md",
-    "Teste.md",
-    "Master Folder/Matérias/Logica Matematica/Argumentos/Introdução  a Argumentos lógicos.md",
-    "Master Folder/Matérias/Logica Matematica/Argumentos/conclusão.md",
-    "Alfabeto da Lógica Proposicional.md",
-    "Master Folder/Matérias/Logica Matematica/Argumentos/Notação.md",
-    "Master Folder/Matérias/Logica Matematica/Argumentos/Princípios da Lógica matemática.md",
-    "vetor.md",
-    "Master Folder/Matérias/Física 1/Grandezas Vetoriais.md",
-    "Master Folder/Matérias/Física 1/Aceleração Constante.md"
+    "Master Folder/Matérias/UENF/Programação 1/Programação 1.md",
+    "Notação Préfixa.md",
+    "Notação Infixa.md"
   ]
 }

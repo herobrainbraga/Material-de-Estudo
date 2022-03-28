@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## ```ad-todo
 
-- [ ] Slides Física
-- [ ] Escrever as formulas de [[Queda Livre]]
+- [ ] Fazer slides de algebra
 - [ ] Slides Annabel
 - [ ] Organizar slides Calculo 2
-- [ ] Fazer slides de algebra
-- [ ] Escrever Novos slides Tang
+- [ ] Slide 5 Tang
+- [ ] Slides Física
+- [ ] Escrever as formulas de [[Queda Livre]]
 - [ ] Baixar R
 
 

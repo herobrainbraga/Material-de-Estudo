@@ -68,7 +68,7 @@ T1 ---> T2 ---> T3
 Velocidade em T2 = 2m/s 
 Velocidade em T3 = 4m/s
 
-Quando temos a variação da velocidade chamamos isso de [[aceleração]]
+Quando temos a variação da velocidade chamamos isso de [[Aceleração]]
 
 
 ### Velocidade Média

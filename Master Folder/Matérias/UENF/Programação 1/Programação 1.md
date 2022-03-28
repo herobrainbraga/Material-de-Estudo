@@ -13,15 +13,7 @@ Contato - annabell_pos@pq.uenf.br
 ## definição de algoritmo
 Uma sequencia de passos que tem um resultado, que chega em algum lugar
 
-## [[Áreas de aplicação]]
-
-# [[Tipos de algoritmos]]
-1. [[Algoritmos de caminho]]
-2. [[Algoritmos de busca]]
-3. [[Algoritmo de ordenação]]
-4. [[Algoritmos da teoria dos garfos]]
-5. [[Algoritmos de fila]]
-6. [[Algoritmos de pilha]]
+# [[Algoritmos]]
 
 # Exemplo de um algoritmo
 
@@ -81,4 +73,4 @@ Python é interpretado, e portanto um interpretador lê os comandos da linguagem
 
 
 
-# [[Algoritmos]]
+

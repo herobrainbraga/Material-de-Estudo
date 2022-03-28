@@ -30,12 +30,9 @@ Podem ser visualizados de varias maneiras:
 	4. repetir até chegar na página com o nome da pessoa
 	5. ler até achar o nome da pessoa
 
+## Tópicos parecidos
 
-- Crie Uma sequencia lógica para tomar banho
-- Faça um algoritmo para somar dois numeros e multiplicar o resultado pelo primeiro numero
-- descreva com detalhes a sequencia logica para trocar um pneu de um carro
-- faça uma algoritmo pra trocar uma lampada, descreva com detalhes
-
-
+[[Tipos de algoritmos]]
+[[Áreas de aplicação]] dos algoritmos
 
 #programação_1 

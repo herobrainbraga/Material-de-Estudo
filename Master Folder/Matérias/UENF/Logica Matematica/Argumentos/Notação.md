@@ -21,18 +21,11 @@ Temos que:
 
 Quando há a presença de parenteses deverá se realizar as tarefas seguindo a [[Precedencia dos Operadores]]
 
-## Infixa, Préfixa, Pósfixa
+# Tipos de Notação
+[[Notação Infixa]]
 
-Infixa fica no meio
+[[Notação Préfixa]]
 
-A + B
-
-Préfixa fica antes
-
-+AB
-
-Pósfixa fica depois
-
-AB+
+[[Notação Pósfixa]]
 
 #Lógica_matematica 
