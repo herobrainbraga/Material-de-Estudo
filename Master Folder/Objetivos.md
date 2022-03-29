@@ -19,8 +19,9 @@
 
 ### Para Bicicleta 
 - [ ] Atingir um tempo de volta na UENF de 4:00
-- [x] Dar 3 voltas na UENF em sequência (5,4Km)
-- [ ] Dar 5 voltas na UENF em sequência (9Km)
+- [x] Dar 3 voltas na UENF em sequência (5,4km)
+- [ ] Dar 5 voltas na UENF em sequência (9km)
+- [ ] Dar 11 Voltas na UENF em sequência (20km)
 
 23/03/2022 ---> 23/04/2022
 

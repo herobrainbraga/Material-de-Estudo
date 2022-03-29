@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Master Folder/Matérias/UENF/Logica Matematica/Tautologias.md",
+            "file": "Master Folder/Matérias/UENF/Algebra Linear/Algebra Linear - Bibliografia.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Folder/Matérias/UENF/Logica Matematica/Tautologias.md",
+                "file": "Master Folder/Matérias/UENF/Algebra Linear/Algebra Linear - Bibliografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "811b0fcff0dbdaa7",
   "lastOpenFiles": [
+    "Master Folder/Matérias/UENF/Algebra Linear/Algebra Linear - Bibliografia.md",
+    "Master Folder/Matérias/UENF/Algebra Linear/Matriz Transposta.md",
+    "Master Folder/Matérias/UENF/Algebra Linear/Multiplicação de matrizes.md",
+    "Master Folder/Matérias/UENF/Algebra Linear/Matriz.md",
+    "Master Folder/Matérias/UENF/Física 1/Movimento de projéteis.md",
+    "Master Folder/Matérias/UENF/Logica Matematica/Tabela Verdade.md",
     "Master Folder/Matérias/UENF/Logica Matematica/Tautologias.md",
-    "Notação Pósfixa.md",
-    "Master Folder/Matérias/UENF/Logica Matematica/Argumentos/Notação.md",
-    "Master Folder/Matérias/UENF/Logica Matematica/Argumentos/Introdução  a Argumentos lógicos.md",
-    "Master Folder/Matérias/UENF/Programação 1/Algoritmos.md",
-    "Master Folder/Matérias/Lavinia/Pensi - 01 - 280322.pdf",
     "Master Folder/A Fazer, Estudar.md",
-    "Master Folder/Matérias/UENF/Programação 1/Programação 1.md",
-    "Notação Préfixa.md",
-    "Notação Infixa.md"
+    "Master Folder/Objetivos.md",
+    "Master Folder/Matérias/UENF/Logica Matematica/Notação Pósfixa.md"
   ]
 }

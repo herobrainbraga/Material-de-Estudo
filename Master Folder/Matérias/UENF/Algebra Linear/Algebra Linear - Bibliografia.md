@@ -10,13 +10,6 @@ Dia 15/03/2022
 
 [[Matriz Transposta]]
 
-[[Matriz Identidade]]
-
-
-
-
-
-
 ___
 
 Dia 22/03/2022
@@ -31,3 +24,4 @@ Dia 22/03/2022
 
 # Operações elementares sobre as linhas da matriz
 
+#algebraLin 
