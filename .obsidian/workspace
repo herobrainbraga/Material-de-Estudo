@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "811b0fcff0dbdaa7",
+        "id": "999457b3146bf47f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Master Folder/Matérias/UENF/Algebra Linear/Algebra Linear - Bibliografia.md",
+            "file": "ChangeLog.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322
   },
   "right": {
     "id": "6430bc98ad9eeb5b",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master Folder/Matérias/UENF/Algebra Linear/Algebra Linear - Bibliografia.md",
+                "file": "ChangeLog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "811b0fcff0dbdaa7",
+  "active": "999457b3146bf47f",
   "lastOpenFiles": [
-    "Master Folder/Matérias/UENF/Algebra Linear/Algebra Linear - Bibliografia.md",
-    "Master Folder/Matérias/UENF/Algebra Linear/Matriz Transposta.md",
-    "Master Folder/Matérias/UENF/Algebra Linear/Multiplicação de matrizes.md",
-    "Master Folder/Matérias/UENF/Algebra Linear/Matriz.md",
-    "Master Folder/Matérias/UENF/Física 1/Movimento de projéteis.md",
-    "Master Folder/Matérias/UENF/Logica Matematica/Tabela Verdade.md",
-    "Master Folder/Matérias/UENF/Logica Matematica/Tautologias.md",
+    "ChangeLog.md",
+    "Master Folder/Slides/Física/5-Fisica-Mov-2D-3D.pdf",
+    "Master Folder/Slides/Física/3-Fisica-Movimento-Retilineo-2.pdf",
+    "Master Folder/Slides/Física/2-Fisica-Movimento-Retilineo.pdf",
+    "Master Folder/Slides/Física/1-Fisica.pdf",
+    "Master Folder/Slides/Algebra Linear/A fazer Algebra.md",
+    "Master Folder/Slides/Lógica Matemática/Disciplina - Lógica Matemática_2022-1.pdf",
     "Master Folder/A Fazer, Estudar.md",
-    "Master Folder/Objetivos.md",
-    "Master Folder/Matérias/UENF/Logica Matematica/Notação Pósfixa.md"
+    "Master Folder/Slides/Lógica Matemática/Slides/10-S5_Álgebra das Proposições.pdf",
+    "Master Folder/Slides/Lógica Matemática/Slides/12-S5 Formas Normais e Tabela-Verdade.pdf"
   ]
 }

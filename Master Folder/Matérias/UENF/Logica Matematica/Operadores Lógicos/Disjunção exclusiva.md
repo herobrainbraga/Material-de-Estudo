@@ -1,4 +1,4 @@
-# Disjunção exclusiva
+ # Disjunção exclusiva
 
 ## `XOR`
 

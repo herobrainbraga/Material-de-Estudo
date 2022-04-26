@@ -14,3 +14,6 @@ Propriedades da transposta:
 2. $(A+B)^T=A^T+B^T$  e $(A-B)^T = A^T - B^T$ 
 3. $(kA)^T=kA^T$ Onde k é um escalar qualquer 
 4. $(AB)^T=B^TA^T$ Isto é, a transposta de um produto de matrizes é igual ao produto de suas transpostas em ordem inverso. 
+
+
+#algebraLin 

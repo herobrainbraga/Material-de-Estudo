@@ -1,6 +1,5 @@
 # Algoritmos
 
-
 É uma sequência de passos precisos e bem definidos, para a realização de uma tarefa ou resolução de um problema
 
 Podem ser visualizados de varias maneiras:

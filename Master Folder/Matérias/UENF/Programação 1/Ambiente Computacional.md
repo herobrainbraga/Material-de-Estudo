@@ -1,36 +1,3 @@
-# Programação 1
-
-#programação_1
-
-
-- Prova 1 - 05/maio
-- Prova 2 - 23/junho
-
-Contato - annabell_pos@pq.uenf.br
-
-# 1. Algoritmos no dia a dia 
-
-## definição de algoritmo
-Uma sequencia de passos que tem um resultado, que chega em algum lugar
-
-# [[Algoritmos]]
-
-# Exemplo de um algoritmo
-
-Encontre a raíz quadrada
-
-1. Comece com a solução inicial i (exemplo $i=\frac{x}{2}$)
-2. Enquanto $i^2$ não for próximo o suficiente de x faça
-	1. calculo novo i como $i=\frac{(i+\frac{i}{x})}{2}$
-	2. definimos que $i^2$ está próximo de x quando $|i^2-x| < 0.1$
-
-Este algoritmo é conhecido como `Método  de Newton`
-
-
-#### Data 15/03
-
----
-
 # Ambiente Computacional
 Ele é organizado como uma pilha, onde cada item realiza tarefas bem específicas
 
@@ -71,6 +38,7 @@ LInguagens interpretadas
 
 Python é interpretado, e portanto um interpretador lê os comandos da linguagem e os executa diretamente, linha por linha, transformando cada comando em linguagem de máquina.
 
+## Linguagens híbridas
+são aquelas que implementam as duas formas de leitura, compilado e interpretado
 
-
-
+#programação_1 

@@ -1,5 +1,5 @@
 # Grandezas derivadas
-São grandezas derivadas das [[Grandezas Fundamentais]]
+São grandezas derivadas das Grandezas Fundamentais
 
 | Grandeza          | Nome da Unidade         | Símbolo | Equiv    |
 | ----------------- | ----------------------- | ------- | -------- |

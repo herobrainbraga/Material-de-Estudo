@@ -118,4 +118,20 @@ A matriz $c$A é chamada de múltiplo escalar de A
 
 # [[Multiplicação de matrizes]]
 
+# Matriz simétrica e anti-simétrica
+
+Uma matriz quadrada A é chamada de simétrica se $A^T$ = A e anti-simétrica se $A^T$ = -A
+
+- Exemplos:
+
+Matriz Simétrica $\begin{vmatrix}19&3\\3&7\end{vmatrix}$
+
+
+Matriz Anti-Simétrica $\begin{vmatrix}0&-1\\1&0\end{vmatrix}$
+
+Observações:
+
+1. Em uma matriz simétrica, os elementos em posições simétricas em relação a diagonal principal são iguais.
+2. Uma matriz anti-simétrica tem, necessariamente, todos os elementos da diagonal principal igual a zero
+
 #algebraLin 

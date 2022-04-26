@@ -39,3 +39,6 @@ Cuidado ao usar parênteses pois podem mudar a ordem em que as operações são 
  
 
 #Lógica_matematica 
+
+
+

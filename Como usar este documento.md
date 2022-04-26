@@ -17,9 +17,10 @@ Na esquerda das notas você pode ver o gerenciador hierárquico nele você pasta
 	Você  pode abrir multiplas notas com CTRL+Click
 
 # 2. Navegação
-Em Horários e Faculdade no momento você encontrará os horários de Ciência da Computação (UENF) 2022, e a Grade Curricular de Ciência da Computação (UENF)
 
 Em Master Folder Você encontrará a pasta que contem todas as matérias, a pasta de plugins (Ignorar) e a pasta de tarefas, nela você só encontrará tarefas após o seu tempo de envio ter acabado.
+
+Em Horários e Faculdade no momento você encontrará os horários de Ciência da Computação (UENF) 2022, e a Grade Curricular de Ciência da Computação (UENF)
 
 Em Excalidraw é onde todos os seus desenhos e PNGs do excalidraw vão parar
 
@@ -49,4 +50,10 @@ Maneira intuitiva de navegar os arquivos, mas pode ser meio cheio demais, por is
 # 8. Erros e correções
 Se achar algum erro ou alguma coisa ou português que precisa ser corrigdo só me mandar mensagem :)
 
-### Aproveite minhas notinhas!!! :)
+# 9. Uso geral
+Uma vez baixado este documento é 100% Offline, e para a felicidade de vocês eu vou incluir todos os PDFs aqui em uma pasta para você ter eles offline também
+
+
+
+
+### Aproveite as notinhas!!! :)

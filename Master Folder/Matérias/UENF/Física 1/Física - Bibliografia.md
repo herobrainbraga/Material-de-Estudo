@@ -3,11 +3,7 @@
 ---
 Dia 15/03/2022
 
-[[Grandezas Fundamentais]]
-
 [[Sistema internacional de Medidas]]
-
-[[Unidades derivadas]]
 
 [[Movimento Retilíneo]]
 ___

@@ -22,6 +22,19 @@ Dia 22/03/2022
 
 [[Menores e cofatores]]
 
-# Operações elementares sobre as linhas da matriz
+[[Operações Elementares]]
+
+___ 
+
+Dia 24/03/2022 e Dia 29/03/2022
+- Eu faltei dia 24
+
+[[Forma Escalonada]]
+
+[[Eliminação Gaussiana]]
+
+
 
 #algebraLin 
+
+

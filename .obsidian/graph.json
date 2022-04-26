@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "calculo",
+      "query": "CalculoMat",
       "color": {
         "a": 1,
         "rgb": 8843871
@@ -60,6 +60,6 @@
   "repelStrength": 10.2905982905983,
   "linkStrength": 1,
   "linkDistance": 153,
-  "scale": 0.43897166552271566,
-  "close": false
+  "scale": 0.53450773998191,
+  "close": true
 }
